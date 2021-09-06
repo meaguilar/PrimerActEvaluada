@@ -19,7 +19,7 @@ Diseñar una plantilla personalizada que se adapte a cualquier tamaño de dispos
 
 ## Ejemplo del resultado esperado
 -----------
-* Enlace para ver un video del ejemplo: https://www.youtube.com/watch?v=oASmvujRRr4
+* Enlace para ver un video del ejemplo: https://drive.google.com/file/d/1zo5kTujtWrhvOwGbQAoO_kUm1ZeklP2j/view?usp=sharing 
 * Imágenes de ejemplo del resultado esperado
 
 ![Imagen Ejemplo](/images/img1.png)
